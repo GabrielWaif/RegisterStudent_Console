@@ -1,0 +1,15 @@
+G:\Projetos\Cadastro Alunos\bin\Debug\net6.0\Cadastro Alunos.exe
+G:\Projetos\Cadastro Alunos\bin\Debug\net6.0\Cadastro Alunos.deps.json
+G:\Projetos\Cadastro Alunos\bin\Debug\net6.0\Cadastro Alunos.runtimeconfig.json
+G:\Projetos\Cadastro Alunos\bin\Debug\net6.0\Cadastro Alunos.dll
+G:\Projetos\Cadastro Alunos\bin\Debug\net6.0\Cadastro Alunos.pdb
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.csproj.AssemblyReference.cache
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.AssemblyInfoInputs.cache
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.AssemblyInfo.cs
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.csproj.CoreCompileInputs.cache
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.dll
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\refint\Cadastro Alunos.dll
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.pdb
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\Cadastro Alunos.genruntimeconfig.cache
+G:\Projetos\Cadastro Alunos\obj\Debug\net6.0\ref\Cadastro Alunos.dll
